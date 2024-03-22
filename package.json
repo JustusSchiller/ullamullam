@@ -1,0 +1,27 @@
+{
+  "name": "ullamullam",
+  "version": "1.0.0",
+  "description": "webpack plugin to optimize initial JavaScript execution/parsing by wrapping eager functions",
+  "main": "lib/index.js",
+  "keywords": [
+    "est",
+    "aliquid",
+    "alias",
+    "webpack-plugin"
+  ],
+  "author": "ElisaBalistreri",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustusSchiller/ullamullam.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "optimize-js": "^1.0.0",
+    "webpack-sources": "^0.1.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2"
+  }
+}
